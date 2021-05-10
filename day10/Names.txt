@@ -1,0 +1,6 @@
+俞敏洪,admin,男,23,北京市昌平区沙河北大桥桥底下,D:\\picture\\cat.jpg
+李彦宏,root,女,27,北京市顺义区金装北大桥桥底下,D:\\picture\\dog.jpg
+丁磊,123456,男,53,北京市西城区沙河北大桥桥底下,D:\\picture\\景甜.jpg
+麻花藤,admin,男,23,北京市昌平区沙河北大桥桥底下,D:\\picture\\白冰.jpg
+码云,admin,男,23,北京市房山区沙河北大桥桥底下,D:\\picture\\杨幂.jpg
+邓超,admin,男,23,北京市昌平区沙河北大桥桥底下,D:\\picture\\杨超爷.jpg
